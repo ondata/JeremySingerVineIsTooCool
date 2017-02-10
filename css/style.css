@@ -78,3 +78,19 @@ a {
     visibility: hidden !important;
 }
 /* rimosso momentaneamente export tool */
+
+.bookmark-btn {
+  background-color: #AAA;
+  color: white !important;;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 5px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
+}
+/* line 27, components/_bookmarklet.scss */
+.bookmark-btn:hover {
+  color: white !important;
+}
