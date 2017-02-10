@@ -1,7 +1,9 @@
-
 .exhibit-tileView-body { list-style: none; }
 .exhibit-collectionView-group-count { display: none; }
 
+* {
+    font-family: "Work Sans";
+}
 
 div.app-thumbnail {
    float:      left;
