@@ -2,4 +2,4 @@
 
 [Jeremy Singer-Vine](https://twitter.com/jsvine) is too cool, especially his great **[Data Is Plural](https://tinyletter.com/data-is-plural)** newsletter.
 
-For this reason we ([@dontyna](https://twitter.com/dontyna) & [@aborruso](https://twitter.com/aborruso)) have built with :heart_eyes: a **web page search**, an **[RSS](http://feeds.feedburner.com/dataisplural)** and a **[bookmarklet](./bookmarklet.html)** to look inside it and stay up to date.
+For this reason we ([@dontyna](https://twitter.com/dontyna) & [@aborruso](https://twitter.com/aborruso)) have built with :heart_eyes: a **[web page search](https://ondata.github.io/JeremySingerVineIsTooCool/)**, an **[RSS](http://feeds.feedburner.com/dataisplural)** and a **[bookmarklet](./bookmarklet.html)** to look inside it and stay up to date.
